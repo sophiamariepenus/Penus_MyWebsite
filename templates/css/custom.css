@@ -1,0 +1,12 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 60px;
+  }
+.homepage h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    text-transform: uppercase;
+   }
